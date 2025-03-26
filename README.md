@@ -9,10 +9,10 @@
 </p>
 
 <!-- Introduction with typing animation -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Zidan+Mubarak!;AI/ML+Engineer;Deep+Learning+Enthusiast;Always+Learning%2C+Always+Growing&center=true&width=380&height=45" alt="Typing SVG" /></a>
-</h1>
-
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Zidan+Mubarak!;Information+Technology+Student;AI/ML+Engineer;Deep+Learning+Enthusiast;Always+Learning%2C+Always+Growing&center=true&width=380&height=45" alt="Typing SVG" /></a>
+</p>
+<hr/>
 <!-- About Me Section in a Container Box -->
 <div align="center">
   <div style="display: inline-block; border-radius: 10px; padding: 20px; margin: 10px; background-color: #0D1117; border: 1px solid #30363d; width: 80%;">
@@ -28,31 +28,45 @@
   </div>
 </div>
 
-<!-- GitHub Stats in Container Boxes -->
-<h2 align="center">📊 My GitHub Stats</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <!-- GitHub Stats Card -->
-  <div style="flex: 1; min-width: 300px; max-width: 48%; border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=zidanmubarak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
-  </div>
-  
-  <!-- Most Used Languages Card -->
-  <div style="flex: 1; min-width: 300px; max-width: 48%; border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanmubarak&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true&bg_color=0D1117" alt="Top Languages" width="100%" />
-  </div>
-</div>
-
-<!-- GitHub Activity Graph -->
-<div align="center" style="border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 15px;">
-  <h3>📈 Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zidanmubarak&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
-
 <!-- GitHub Streak Stats -->
 <div align="center" style="border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 15px;">
   <h3>🔥 Contribution Streak</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zidanmubarak&theme=tokyonight&hide_border=true" alt="Contribution Stats" width="100%"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zidanmubarak&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+  </a>
 </div>
+
+## 📊 Github Stats
+
+<!-- GitHub Profile Stats in Dropdown (similar to Yashita's) -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+    <!-- GitHub Stats Card -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Zidan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zidanmubarak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a>
+    <!-- Most Used Languages Card -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Zidan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanmubarak&layout=compact&langs_count=8&theme=radical&border_radius=10&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a>
+  </div>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+<!-- Activity Graph in Dropdown (similar to Yashita's) -->
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+  <div align="center">
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+      <img alt="Zidan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zidanmubarak&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+    </a>
+  </div>
+  <br/>
+</details>
 
 <!-- AI/ML Technologies Section -->
 <h2 align="center">🧠 AI/ML Technologies</h2>
@@ -88,11 +102,6 @@
     <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?logo=googlecolab&logoColor=white" alt="Google Colab" />
     <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle" />
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" alt="MySQL" />
-<!--     <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" /> -->
-<!--     <img src="https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> -->
-<!--     <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" /> -->
-<!--     <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" /> -->
-<!--     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> -->
   </p>
 </div>
 
