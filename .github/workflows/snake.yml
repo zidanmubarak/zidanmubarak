@@ -1,35 +1,24 @@
-name: Generate Snake Game
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs at 00:00 UTC everyday
+    - cron: "0 0 * * *" # setiap hari jam 00:00 UTC
   workflow_dispatch:
-  push:
-    branches:
-      - main
-      - master
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v2
-      
-      - uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate GitHub Contribution Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: zidanmubarak
-          # Size of the generated gif
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          # SVG animations for light mode and dark mode
-          svg_out_path: dist/github-contribution-grid-snake.svg
-          svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
-          # Generate all SVG frames in one SVG file for better animation performance
-          combine_frames: true
-          
-      - name: Deploy to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v2.6.0
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+
+      - name: Push snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
