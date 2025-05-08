@@ -109,9 +109,9 @@
 <h2 align="center">🐍 My Contributions</h2>
 <div align="center" style="border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 15px;">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
