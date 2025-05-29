@@ -116,11 +116,11 @@
 </div>
 
 <!-- AI Journey Visual Timeline -->
-<h2 align="center">🚀 My AI Journey</h2>
+<!-- <h2 align="center">🚀 My AI Journey</h2>
 
 <div align="center">
   <!-- All stages in one line -->
-  <p>
+  <!--<p>
     <img src="https://img.shields.io/badge/Stage%201-Foundation-blue?" alt="Foundation"/>
     &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Stage%202-Deep%20Learning-red?" alt="Deep Learning"/>
@@ -128,10 +128,10 @@
     <img src="https://img.shields.io/badge/Stage%203-MLOps-teal?" alt="MLOps"/>
     &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Stage%204-Cloud-purple?" alt="Cloud"/>
-  </p>
+  </p> -->
   
   <!-- All technologies in one line -->
-  <p>
+  <!-- <p>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
@@ -145,7 +145,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
   </p>
-</div>
+</div> -->
 
 <br/>
 <!-- Connect with me section -->
