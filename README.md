@@ -1,170 +1,300 @@
-<!-- Banner Header with Animation -->
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🌟 ZIDAN MUBARAK - AI/ML ENGINEER | GITHUB PROFILE README
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<!-- Animated 3D Header with Gradient -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi,%20I'm%20Zidan%20Mubarak%20👋&fontSize=60&animation=fadeIn&fontAlignY=40" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Zidan%20Mubarak&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=45&desc=AI/ML%20Engineer%20|%20Deep%20Learning%20Enthusiast&descAlignY=70&descSize=20" width="100%"/>
 </div>
 
-<!-- Profile Views Counter -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=zidanmubarak&style=flat&color=0e75b6" alt="Profile views counter"/>
-</p>
-
-<!-- Introduction with typing animation -->
+<!-- Profile Views & Social Badges -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi+there%2C+I'm+Zidan+Mubarak!;Information+Technology+Student;AI/ML+Engineer;Deep+Learning+Enthusiast;Always+Learning%2C+Always+Growing&center=true&width=380&height=45" alt="Typing SVG" /></a>
+  <a href="https://github.com/zidanmubarak">
+    <img src="https://komarev.com/ghpvc/?username=zidanmubarak&style=flat&color=0891b2&label=Profile+Views" alt="Profile views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/zidanmubarak?tab=followers">
+    <img src="https://img.shields.io/github/followers/zidanmubarak?style=social&logo=github" alt="GitHub followers"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/zidanmubarak?tab=repositories">
+    <img src="https://img.shields.io/github/stars/zidanmubarak?style=social&logo=github" alt="GitHub stars"/>
+  </a>
 </p>
-<hr/>
-<!-- About Me Section in a Container Box -->
-<div align="center">
-  <div style="display: inline-block; border-radius: 10px; padding: 20px; margin: 10px; background-color: #0D1117; border: 1px solid #30363d; width: 80%;">
-    <h2>👨‍💻 About Me</h2>
-    <ul align="left" style="list-style-type: none; padding-left: 20px;">
-      <li>🔭 I'm currently working on <b>AI/ML projects for real-world solutions</b></li>
-      <li>🌱 I'm currently exploring <b>Advanced Deep Learning architectures and MLOps</b></li>
-      <li>👯 I'm looking to collaborate on <b>Machine Learning and AI research projects</b></li>
-      <li>💬 Ask me about <b>Machine Learning, Data Science, Python, TensorFlow</b></li>
-      <li>📫 How to reach me: <a href="https://www.linkedin.com/in/zidan-mubarak-87b880283/">LinkedIn</a></li>
-      <li>⚡ Fun fact: <b>I love turning complex data into meaningful insights</b></li>
-    </ul>
-  </div>
-</div>
+
+<!-- Animated Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=600&lines=Welcome+to+my+Digital+Universe!+%F0%9F%91%8B;Crafting+Intelligence+with+Code+%F0%9F%A4%96;Transforming+Data+into+Innovation+%F0%9F%9A%80;AI%2FML+Engineer+%7C+Deep+Learning+Enthusiast" alt="Typing SVG"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     👨‍💻 ABOUT ME SECTION - Code Style
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" width="30px"/>
+  <samp> About Me </samp>
+</h2>
+
+```python
+class ZidanMubarak:
+    """
+    🚀 AI/ML Engineer | Deep Learning Enthusiast
+    """
+    
+    def __init__(self):
+        self.name = "Zidan Mubarak"
+        self.location = "Indonesia 🇮🇩"
+        self.education = "Information Technology Student"
+        self.role = "AI/ML Engineer"
+        
+    def current_focus(self):
+        return [
+            "🔬 Deep Learning & Neural Networks",
+            "🤖 Large Language Models (LLMs)",
+            "📊 Data Science & Analytics",
+            "☁️ MLOps & Cloud Deployment"
+        ]
+    
+    def life_motto(self):
+        return "The best way to predict the future is to create it with AI ⚡"
+
+
+# Let's connect! 🤝
+zidan = ZidanMubarak()
+print(zidan.life_motto())
+```
+
+<!-- Quick Connect with Icon Buttons -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/zidan-mubarak/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="45"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:zidanmubarak00@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" width="45"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/zidanmubarak">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="45"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     📊 GITHUB STATS
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30px"/>
+  <samp> GitHub Analytics </samp>
+</h2>
 
 <!-- GitHub Streak Stats -->
-<div align="center" style="border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 15px;">
-  <h3>🔥 Contribution Streak</h3>
+<p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zidanmubarak&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zidanmubarak&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=0891B2&ring=0891B2&fire=FF6B6B&currStreakLabel=0891B2" alt="GitHub Streak" width="70%"/>
   </a>
-</div>
-
-## 📊 Github Stats
-
-<!-- GitHub Profile Stats in Dropdown (similar to Yashita's) -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <!-- GitHub Stats Card -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="Zidan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=zidanmubarak&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    </a>
-    <!-- Most Used Languages Card -->
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img alt="Zidan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanmubarak&layout=compact&langs_count=10&theme=radical&border_radius=10&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-</a>
-  </div>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-<!-- Activity Graph in Dropdown (similar to Yashita's) -->
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-  <div align="center">
-    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-      <img alt="Zidan's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=zidanmubarak&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-    </a>
-  </div>
-  <br/>
-</details>
-
-<!-- AI/ML Technologies Section -->
-<h2 align="center">🧠 AI/ML Technologies</h2>
-<div align="center" style="border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 15px;">
-  <p align="center">
-    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-    <img src="https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white" alt="Keras" />
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=white" alt="SciPy" />
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white" alt="Plotly" />
-    <img src="https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv&logoColor=white" alt="OpenCV" />
-    <img src="https://img.shields.io/badge/transformers-%23FF9900.svg?logo=huggingface&logoColor=white" alt="Transformers" />
-    <img src="https://img.shields.io/badge/MLOps-%23025E8C.svg?logo=azure-devops&logoColor=white" alt="MLOps" />
-  </p>
-</div>
-
-<!-- Languages and Tools Section -->
-<h2 align="center">🔧 Languages and Tools</h2>
-<div align="center" style="border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 15px;">
-  <p align="center">
-    <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python" />
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white" alt="SQL" />
-    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?logo=Jupyter&logoColor=white" alt="Jupyter" />
-    <img src="https://img.shields.io/badge/VSCode-0078D4?logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?logo=googlecolab&logoColor=white" alt="Google Colab" />
-    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle" />
-    <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?logo=mysql&logoColor=white" alt="MySQL" />
-  </p>
-</div>
-
-<!-- Contributions Graph with Title -->
-<h2 align="center">🐍 My Contributions</h2>
-<div align="center" style="border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 15px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<!-- AI Journey Visual Timeline -->
-<!-- <h2 align="center">🚀 My AI Journey</h2>
-
-<div align="center">
-  <!-- All stages in one line -->
-  <!--<p>
-    <img src="https://img.shields.io/badge/Stage%201-Foundation-blue?" alt="Foundation"/>
-    &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Stage%202-Deep%20Learning-red?" alt="Deep Learning"/>
-    &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Stage%203-MLOps-teal?" alt="MLOps"/>
-    &nbsp;&nbsp;&nbsp;➡️&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Stage%204-Cloud-purple?" alt="Cloud"/>
-  </p> -->
-  
-  <!-- All technologies in one line -->
-  <!-- <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-    &nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
-    &nbsp;&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
-  </p>
-</div> -->
+</p>
 
 <br/>
-<!-- Connect with me section -->
-<h2 align="center">🌐 Connect with me</h2>
-<div align="center" style="border-radius: 10px; padding: 10px; background-color: #0D1117; border: 1px solid #30363d; margin: 15px;">
-  <p align="center">
-    <a href="https://www.linkedin.com/in/zidan-mubarak-87b880283/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/zidanmubarak" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white" alt="GitHub">
-    </a>
-    <a href="mailto:zidanmubarak00@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-    </a>
-  </p>
-</div>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%">
-</div>
+<!-- Stats Cards Side by Side -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=zidanmubarak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=FFFFFF&border_radius=15&include_all_commits=true&count_private=true" height="170px"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanmubarak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&text_color=FFFFFF&border_radius=15&langs_count=8" height="170px"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zidanmubarak&bg_color=0D1117&color=0891B2&line=0891B2&point=FFFFFF&area=true&area_color=0891B2&hide_border=true&radius=16" width="95%"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🧠 AI/ML TECHNOLOGIES (No duplicates)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="30px"/>
+  <samp> AI/ML Tech Stack </samp>
+</h2>
+
+<!-- AI/ML Technologies - Single set of icons -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" title="TensorFlow"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" title="PyTorch"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="50" height="50" alt="Keras" title="Keras"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="65" height="50" alt="Scikit-learn" title="Scikit-learn"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV" title="OpenCV"/>
+  &nbsp;&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face" title="Hugging Face"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" title="NumPy"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" title="Pandas"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib" title="Matplotlib"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="50" height="50" alt="Plotly" title="Plotly"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="50" height="50" alt="Anaconda" title="Anaconda"/>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🔧 LANGUAGES & TOOLS (No duplicates)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="30px"/>
+  <samp> Languages & Tools </samp>
+</h2>
+
+<!-- Languages & Tools - Single set of icons -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL" title="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git"/>
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" title="Linux"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code" title="VS Code"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50" alt="Jupyter" title="Jupyter"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI" title="FastAPI"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" alt="Flask" title="Flask"/>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🐍 CONTRIBUTION SNAKE
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30px"/>
+  <samp> Contribution Snake </samp>
+</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zidanmubarak/zidanmubarak/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     💬 INSPIRATIONAL QUOTE
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30px"/>
+  <samp> Random Dev Quote </samp>
+</h2>
+
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Random Dev Quote"/>
+  </a>
+</p>
+
+<!-- Animated Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     🌐 CONNECT WITH ME (Without Kaggle)
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" width="30px"/>
+  <samp> Let's Connect! </samp>
+</h2>
+
+<p align="center">
+  <em>I love connecting with fellow developers and AI enthusiasts! Feel free to reach out! 🤝</em>
+</p>
+
+<br/>
+
+<!-- Social Links without Kaggle -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/zidan-mubarak/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:zidanmubarak00@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="50"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/zidanmubarak" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="50"/>
+  </a>
+</p>
+
+<br/>
+
+<!-- Support Section -->
+<p align="center">
+  ⭐ <b>Show some love by starring repositories!</b> ⭐
+</p>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     📌 FOOTER
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" height="30"/>
+  &nbsp;
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" height="30"/>
+</p>
+
+<!-- 
+     ═══════════════════════════════════════════════════════════════════════════
+     📝 NOTE: Snake animation requires GitHub Actions workflow
+     Create `.github/workflows/snake.yml` to generate the animation
+     ═══════════════════════════════════════════════════════════════════════════
+-->
