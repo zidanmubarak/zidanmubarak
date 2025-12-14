@@ -2,9 +2,9 @@
      🌟 ZIDAN MUBARAK - AI/ML ENGINEER | GITHUB PROFILE README
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-<!-- Animated 3D Header with Gradient -->
+<!-- Compact Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Zidan%20Mubarak&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=45&desc=AI/ML%20Engineer%20|%20Deep%20Learning%20Enthusiast&descAlignY=70&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Zidan%20Mubarak&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=14" width="100%"/>
 </div>
 
 <!-- Profile Views & Social Badges -->
@@ -22,10 +22,10 @@
   </a>
 </p>
 
-<!-- Animated Typing SVG -->
+<!-- Compact Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=600&lines=Welcome+to+my+Digital+Universe!+%F0%9F%91%8B;Crafting+Intelligence+with+Code+%F0%9F%A4%96;Transforming+Data+into+Innovation+%F0%9F%9A%80;AI%2FML+Engineer+%7C+Deep+Learning+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=450&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+AI+that+matters+%F0%9F%A4%96;Passionate+about+Deep+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -69,19 +69,6 @@ class ZidanMubarak:
 zidan = ZidanMubarak()
 print(zidan.life_motto())
 ```
-
-<!-- Quick Connect with Icon Buttons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/zidan-mubarak/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="45"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:zidanmubarak00@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Email" width="45"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/zidanmubarak">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="45"/>
-  </a>
-</p>
 
 <!-- Animated Divider -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -291,10 +278,3 @@ print(zidan.life_motto())
   &nbsp;
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" height="30"/>
 </p>
-
-<!-- 
-     ═══════════════════════════════════════════════════════════════════════════
-     📝 NOTE: Snake animation requires GitHub Actions workflow
-     Create `.github/workflows/snake.yml` to generate the animation
-     ═══════════════════════════════════════════════════════════════════════════
--->
