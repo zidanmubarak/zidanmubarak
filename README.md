@@ -1,10 +1,10 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🌟 ZIDAN MUBARAK - AI/ML ENGINEER | GITHUB PROFILE README
+     GITHUB PROFILE README
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <!-- Compact Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=Zidan%20Mubarak&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Deep%20Learning%20Enthusiast&descAlignY=55&descSize=14" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=Zidan%20Mubarak&fontColor=0891B2&fontSize=60&fontAlign=50&stroke=ffffff&strokeWidth=1&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- Profile Views & Social Badges -->
@@ -33,7 +33,7 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     👨‍💻 ABOUT ME SECTION - Code Style
+     ABOUT ME SECTION - Code Style
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
@@ -74,7 +74,7 @@ print(zidan.life_motto())
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     📊 GITHUB STATS
+     GITHUB STATS
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
@@ -115,7 +115,7 @@ print(zidan.life_motto())
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🧠 AI/ML TECHNOLOGIES (No duplicates)
+     AI/ML TECHNOLOGIES
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
@@ -136,10 +136,7 @@ print(zidan.life_motto())
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" height="50" alt="OpenCV" title="OpenCV"/>
   &nbsp;&nbsp;
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face" title="Hugging Face"/>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" title="NumPy"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" title="NumPy"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" title="Pandas"/>
   &nbsp;&nbsp;
@@ -154,7 +151,7 @@ print(zidan.life_motto())
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🔧 LANGUAGES & TOOLS (No duplicates)
+     LANGUAGES & TOOLS
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
@@ -171,10 +168,7 @@ print(zidan.life_motto())
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" title="Docker"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" title="Git"/>
-</p>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" title="GitHub"/>
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" title="Linux"/>
   &nbsp;&nbsp;
@@ -191,7 +185,7 @@ print(zidan.life_motto())
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     🐍 CONTRIBUTION SNAKE
+     CONTRIBUTION SNAKE
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
@@ -211,25 +205,7 @@ print(zidan.life_motto())
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     💬 INSPIRATIONAL QUOTE
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="30px"/>
-  <samp> Random Dev Quote </samp>
-</h2>
-
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming" alt="Random Dev Quote"/>
-  </a>
-</p>
-
-<!-- Animated Divider -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     🌐 CONNECT WITH ME (Without Kaggle)
+     CONNECT WITH ME
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <h2>
@@ -264,17 +240,15 @@ print(zidan.life_motto())
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
-     📌 FOOTER
+     FOOTER
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <br/>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" height="30"/>
-  &nbsp;
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" height="30"/>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <br/><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=64748B&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80" alt="Footer"/>
+  <br/><br/>
+  <sub>© 2025 Zidan Mubarak • Made with ❤️ and lots of ☕</sub>
+</div>
