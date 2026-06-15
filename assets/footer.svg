@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 80" fill="none">
+  <!-- Wavy divider line -->
+  <path d="M 200 10 Q 310 5, 425 10 Q 540 15, 650 9"
+        stroke="#D4C5A9" stroke-width="0.8" stroke-linecap="round"/>
+
+  <!-- Pencil icon at center of line -->
+  <g transform="translate(425, 10)" opacity="0.35">
+    <line x1="-6" y1="6" x2="6" y2="-6" stroke="#D4956A" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M -6 6 L -9 9 L -5 7" fill="#D4956A" opacity="0.5"/>
+    <line x1="5" y1="-5.5" x2="7.5" y2="-7.5" stroke="#F0C4C4" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Thank you text -->
+  <text x="425" y="40"
+        font-family="Georgia, 'Palatino Linotype', serif"
+        font-size="14" fill="#A0937D" text-anchor="middle" letter-spacing="1.5" font-style="italic">
+    Thanks for visiting my notebook
+  </text>
+
+  <!-- Copyright -->
+  <text x="425" y="62"
+        font-family="'Courier New', Consolas, monospace"
+        font-size="11" fill="#C4B398" text-anchor="middle" letter-spacing="1">
+    &#169; 2026 Zidan Mubarak
+  </text>
+</svg>

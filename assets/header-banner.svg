@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 230" fill="none">
+  <defs>
+    <filter id="paperShadow" x="-3%" y="-3%" width="106%" height="112%">
+      <feDropShadow dx="1" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+
+  <!-- Paper card -->
+  <rect x="25" y="15" width="800" height="200" rx="3"
+        fill="#FFF4DA" stroke="#E8D5B8" stroke-width="0.5" filter="url(#paperShadow)"/>
+
+  <!-- Binding holes -->
+  <circle cx="45" cy="55" r="4" fill="#F0E4C8" stroke="#DDD0B5" stroke-width="0.8"/>
+  <circle cx="45" cy="85" r="4" fill="#F0E4C8" stroke="#DDD0B5" stroke-width="0.8"/>
+  <circle cx="45" cy="115" r="4" fill="#F0E4C8" stroke="#DDD0B5" stroke-width="0.8"/>
+  <circle cx="45" cy="145" r="4" fill="#F0E4C8" stroke="#DDD0B5" stroke-width="0.8"/>
+  <circle cx="45" cy="175" r="4" fill="#F0E4C8" stroke="#DDD0B5" stroke-width="0.8"/>
+
+  <!-- Red margin line -->
+  <line x1="70" y1="18" x2="70" y2="212" stroke="#F0C4C4" stroke-width="1.5" opacity="0.5"/>
+
+  <!-- Ruled lines (slightly wavy for hand-drawn feel) -->
+  <g stroke="#E8D5B8" stroke-width="0.5" opacity="0.55">
+    <path d="M 30 55 Q 200 54.5, 425 55.3 Q 650 55, 820 55"/>
+    <path d="M 30 85 Q 200 85.4, 425 84.8 Q 650 85.2, 820 85"/>
+    <path d="M 30 115 Q 200 114.6, 425 115.2 Q 650 114.8, 820 115"/>
+    <path d="M 30 145 Q 200 145.3, 425 144.7 Q 650 145, 820 145"/>
+    <path d="M 30 175 Q 200 174.6, 425 175.3 Q 650 175, 820 175"/>
+    <path d="M 30 205 Q 200 205.4, 425 204.8 Q 650 205.2, 820 205"/>
+  </g>
+
+  <!-- Name -->
+  <text x="450" y="113"
+        font-family="Georgia, 'Palatino Linotype', 'Book Antiqua', serif"
+        font-size="34" fill="#3D3D3D" text-anchor="middle" letter-spacing="2">
+    Zidan Mubarak
+  </text>
+
+  <!-- Decorative hand-drawn underline -->
+  <path d="M 310 120 Q 380 117.5, 450 121 Q 520 124, 590 118.5"
+        stroke="#7C9885" stroke-width="1.8" stroke-linecap="round" opacity="0.45"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="145"
+        font-family="'Courier New', Consolas, monospace"
+        font-size="14" fill="#8B9A8E" text-anchor="middle" letter-spacing="4">
+    AI / ML ENGINEER
+  </text>
+
+  <!-- Location -->
+  <text x="450" y="175"
+        font-family="Georgia, serif"
+        font-size="11" fill="#B8A88A" text-anchor="middle" letter-spacing="2" font-style="italic">
+    Indonesia
+  </text>
+
+  <!-- ═══════ DOODLE ELEMENTS ═══════ -->
+
+  <!-- Neural network sketch (top right) -->
+  <g transform="translate(738, 38)" opacity="0.28">
+    <circle cx="0" cy="0" r="3" stroke="#7C9885" stroke-width="1.2"/>
+    <circle cx="0" cy="15" r="3" stroke="#7C9885" stroke-width="1.2"/>
+    <circle cx="18" cy="7.5" r="3" stroke="#7C9885" stroke-width="1.2"/>
+    <circle cx="36" cy="0" r="3" stroke="#7C9885" stroke-width="1.2"/>
+    <circle cx="36" cy="15" r="3" stroke="#7C9885" stroke-width="1.2"/>
+    <line x1="3" y1="1" x2="15" y2="6.5" stroke="#7C9885" stroke-width="0.7"/>
+    <line x1="3" y1="14" x2="15" y2="8.5" stroke="#7C9885" stroke-width="0.7"/>
+    <line x1="21" y1="6.5" x2="33" y2="1" stroke="#7C9885" stroke-width="0.7"/>
+    <line x1="21" y1="8.5" x2="33" y2="14" stroke="#7C9885" stroke-width="0.7"/>
+  </g>
+
+  <!-- Lightbulb sketch (bottom right) -->
+  <g transform="translate(790, 185)" opacity="0.22">
+    <path d="M 0 0 Q -5 -3, -4 -10 Q -3 -17, 0 -19 Q 3 -17, 4 -10 Q 5 -3, 0 0"
+          stroke="#D4956A" stroke-width="1.2" stroke-linecap="round"/>
+    <line x1="-2" y1="2" x2="2" y2="2" stroke="#D4956A" stroke-width="1"/>
+    <line x1="-7" y1="-10" x2="-10" y2="-12" stroke="#D4956A" stroke-width="0.7" opacity="0.4"/>
+    <line x1="7" y1="-10" x2="10" y2="-12" stroke="#D4956A" stroke-width="0.7" opacity="0.4"/>
+    <line x1="0" y1="-23" x2="0" y2="-26" stroke="#D4956A" stroke-width="0.7" opacity="0.4"/>
+  </g>
+
+  <!-- Star (near top-left margin) -->
+  <g transform="translate(82, 40)" opacity="0.28">
+    <path d="M 0 -4 L 0.9 -1.3 L 4 -1.3 L 1.6 0.5 L 2.5 3.2 L 0 1.3 L -2.5 3.2 L -1.6 0.5 L -4 -1.3 L -0.9 -1.3 Z"
+          stroke="#D4956A" stroke-width="0.8"/>
+  </g>
+  <!-- Smaller star -->
+  <g transform="translate(96, 58)" opacity="0.18">
+    <path d="M 0 -3 L 0.6 -1 L 3 -1 L 1.2 0.4 L 1.8 2.4 L 0 1 L -1.8 2.4 L -1.2 0.4 L -3 -1 L -0.6 -1 Z"
+          stroke="#D4956A" stroke-width="0.6"/>
+  </g>
+
+  <!-- Code symbols (left margin, lower) -->
+  <g transform="translate(78, 196)" opacity="0.18">
+    <text font-family="'Courier New', monospace" font-size="10" fill="#7C9885">{...}</text>
+  </g>
+
+  <!-- Gear (upper right) -->
+  <g transform="translate(700, 40)" opacity="0.18">
+    <circle cx="0" cy="0" r="5" stroke="#A0937D" stroke-width="1"/>
+    <circle cx="0" cy="0" r="2" stroke="#A0937D" stroke-width="0.7"/>
+    <line x1="0" y1="-5" x2="0" y2="-7.5" stroke="#A0937D" stroke-width="1"/>
+    <line x1="0" y1="5" x2="0" y2="7.5" stroke="#A0937D" stroke-width="1"/>
+    <line x1="-5" y1="0" x2="-7.5" y2="0" stroke="#A0937D" stroke-width="1"/>
+    <line x1="5" y1="0" x2="7.5" y2="0" stroke="#A0937D" stroke-width="1"/>
+  </g>
+
+  <!-- Coffee cup (lower right area) -->
+  <g transform="translate(740, 188)" opacity="0.18">
+    <path d="M -4 0 L -3.5 9 Q -3 11, 0 11 Q 3 11, 3.5 9 L 4 0"
+          stroke="#B8A88A" stroke-width="1" stroke-linecap="round"/>
+    <path d="M 4 1.5 Q 7.5 1.5, 7.5 4.5 Q 7.5 7.5, 4 7.5"
+          stroke="#B8A88A" stroke-width="1" stroke-linecap="round"/>
+    <path d="M -0.5 -1 Q -1 -4, 0.5 -5" stroke="#B8A88A" stroke-width="0.6" opacity="0.4"/>
+    <path d="M 1.5 -1 Q 2 -3.5, 1 -6" stroke="#B8A88A" stroke-width="0.6" opacity="0.4"/>
+  </g>
+
+  <!-- Pencil sketch (left margin) -->
+  <g transform="translate(82, 82)" opacity="0.2">
+    <line x1="0" y1="0" x2="15" y2="-9" stroke="#D4956A" stroke-width="1.5" stroke-linecap="round"/>
+    <path d="M 0 0 L -2 2.5 L 1.5 1 Z" fill="#D4956A" opacity="0.5"/>
+    <line x1="13.5" y1="-8" x2="16.5" y2="-10" stroke="#F0C4C4" stroke-width="2.5" stroke-linecap="round"/>
+  </g>
+
+  <!-- Small arrow doodle (right side) -->
+  <g transform="translate(795, 115)" opacity="0.15">
+    <path d="M 0 0 Q 5 -8, 12 -5" stroke="#A0937D" stroke-width="1" stroke-linecap="round"/>
+    <path d="M 10 -8 L 12 -5 L 8 -4" stroke="#A0937D" stroke-width="0.8" stroke-linecap="round"/>
+  </g>
+</svg>

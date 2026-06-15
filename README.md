@@ -1,90 +1,98 @@
 <div align="center">
-  <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&repeat=true&width=600&lines=Hi!+Welcome+to+my+GitHub+%F0%9F%91%8B;I'm+an+AI%2FML+Engineer+%F0%9F%87%AE%F0%9F%87%A9;Building+AI+that+matters+%F0%9F%A4%96;Passionate+about+Deep+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
-  </a>
-  <br/>
-  <br/>
-  <p>
-    <a href="https://github.com/zidanmubarak"><img src="https://komarev.com/ghpvc/?username=zidanmubarak&style=flat&color=0891b2&label=Profile+Views" alt="Profile views"/></a>
-    <img src="https://img.shields.io/github/followers/zidanmubarak?style=social&logo=github" alt="GitHub followers"/>
-    <img src="https://img.shields.io/github/stars/zidanmubarak?style=social&logo=github" alt="GitHub stars"/>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/zidan-mubarak/" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40"/>
-    </a>&nbsp;&nbsp;&nbsp;
-    <a href="mailto:zidanmubarak00@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" width="40"/>
-    </a>&nbsp;&nbsp;&nbsp;
-  </p>
+  <img src="assets/header-banner.svg" width="100%" alt="Zidan Mubarak — AI/ML Engineer"/>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/zidan-mubarak/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-FFF4DA?style=flat-square&logo=linkedin&logoColor=3D3D3D" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:zidanmubarak00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-FFF4DA?style=flat-square&logo=gmail&logoColor=3D3D3D" alt="Email"/>
+  </a>&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=zidanmubarak&style=flat-square&color=E8D5B8&label=visitors&labelColor=FFF4DA" alt="Profile views"/>
 </div>
 
----
+<p align="center"><img src="assets/divider.svg" width="55%"/></p>
 
-### 👨‍💻 About Me
+## About Me
+
+Zidan Mubarak is an aspiring AI/ML Engineer and Information Technology student at [UIN Ar-Raniry](https://ar-raniry.ac.id/), Banda Aceh, Indonesia. He is passionate about building intelligent systems that bridge the gap between research and real-world applications.
+
+* Currently focused on **Deep Learning & Neural Networks**, exploring architectures for pattern recognition and computer vision tasks.
+* Actively learning and experimenting with **Large Language Models (LLMs)** and their practical applications in NLP.
+* Interested in the full lifecycle of ML systems — from **Data Science & Analytics** to **MLOps & Cloud Deployment**.
+* Published a research paper on the application of the [Hebb Rule method for Hijaiyyah letter pattern recognition](https://journal.global.ac.id/index.php/AJCSR/article/view/15770) in the Academic Journal of Computer Science Research.
+
+*"Create the future with AI"*
+
+<p align="center"><img src="assets/divider.svg" width="55%"/></p>
+
+## Tech Stack
+
+<div align="center">
+
+**AI & Data Science**<br/>
+<p>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras"/>&nbsp;&nbsp;
+<img width="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV"/>&nbsp;&nbsp;
+<img width="30" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
+
+**Languages & Tools**<br/>
+<p>
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI"/>&nbsp;&nbsp;
+<img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+
+</div>
+
+<p align="center"><img src="assets/divider.svg" width="55%"/></p>
+
+## Published Research
+
+**Penerapan Metode Hebb Rule Menggunakan Python Untuk Pengujian Pengenalan Pola Huruf Hijaiyyah**<br/>
+Nazaruddin Ahmad, Fajar, **Zidan Mubarak**, Muhammad Bilal Akbar<br/>
+*Academic Journal of Computer Science Research* — Vol 7, No 2 (2025)<br/>
+DOI: [10.38101/ajcsr.v7i2.15770](http://dx.doi.org/10.38101/ajcsr.v7i2.15770) · [PDF](https://journal.global.ac.id/index.php/AJCSR/article/view/15770/pdf)
+
+<p align="center"><img src="assets/divider.svg" width="55%"/></p>
+
+## GitHub Analytics
 
 <p align="center">
-  <!-- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=1200&pause=200&color=0891B2&width=750&height=360&multiline=true&repeat=true&lines=class+ZidanMubarak:;%C2%A0%C2%A0%C2%A0%C2%A0def+__init__(self):;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.name+=+%22Zidan+Mubarak%22;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.location+=+%22Indonesia+%F0%9F%87%AE%F0%9F%87%A9%22;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.education+=+%22IT+Student%22;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0self.role+=+%22AI%2FML+Engineer%22;%C2%A0%C2%A0%C2%A0%C2%A0def+current_focus(self):;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0return+%5B;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%22%F0%9F%94%AC+Deep+Learning+%26+Neural+Networks%22,;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%22%F0%9F%A4%96+Large+Language+Models+(LLMs)%22,;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%22%F0%9F%93%8A+Data+Science+%26+Analytics%22,;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%22%E2%98%81%EF%B8%8F+MLOps+%26+Cloud+Deployment%22;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%5D;%C2%A0%C2%A0%C2%A0%C2%A0def+life_motto(self):;%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0%C2%A0return+%22Create+the+future+with+AI+%E2%9A%A1%22" alt="About Me Python Code Animation"/> -->
-  <img src="assets/zidan_mubarak.gif" alt="About Me"/>
+  <a href="https://github.com/zidanmubarak">
+    <img src="https://github-readme-stats.vercel.app/api?username=zidanmubarak&show_icons=true&hide_border=true&border_radius=8&bg_color=FFF4DA&title_color=3D3D3D&icon_color=7C9885&text_color=5A5A5A&include_all_commits=true&count_private=true" height="170px" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/zidanmubarak">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanmubarak&layout=compact&hide_border=true&border_radius=8&bg_color=FFF4DA&title_color=3D3D3D&text_color=5A5A5A&langs_count=6" height="170px" />
+  </a>
 </p>
-
-### 🛠️ Tech Stack & Tools
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <b>🤖 AI & Data Science</b><br><br>
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" title="TensorFlow"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" title="PyTorch"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" title="Keras"/>&nbsp;&nbsp;
-      <img width="35" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV"/>&nbsp;&nbsp;
-      <img width="35" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" title="Hugging Face"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="NumPy"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas"/>
-    </td>
-    <td align="center" width="50%">
-      <b>💻 Languages & Tools</b><br><br>
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" title="Linux"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" title="Jupyter"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI"/>&nbsp;&nbsp;
-      <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
-    </td>
-  </tr>
-</table>
-
-### 📊 GitHub Analytics
-
-<!-- <p align="center">
-  <a href="https://github.com/zidanmubarak">
-    <img src="https://github-readme-stats.vercel.app/api?username=zidanmubarak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&icon_color=0891B2&text_color=FFFFFF&border_radius=15&include_all_commits=true&count_private=true" height="160px" />
-  </a>
-  <a href="https://github.com/zidanmubarak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidanmubarak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0891B2&text_color=FFFFFF&border_radius=15&langs_count=6" height="160px" />
-  </a>
-</p> -->
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="45%">
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zidanmubarak&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=0891B2&ring=0891B2&fire=FF6B6B&currStreakLabel=0891B2" width="100%" />
+        <img src="https://github-readme-streak-stats-eight.vercel.app/?user=zidanmubarak&hide_border=true&border_radius=8&background=FFF4DA&stroke=E8D5B8&ring=7C9885&fire=D4956A&currStreakLabel=3D3D3D&sideLabels=3D3D3D&currStreakNum=3D3D3D&sideNums=5A5A5A&dates=A0937D" width="100%" />
       </a>
     </td>
     <td align="center" width="55%">
       <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zidanmubarak&bg_color=0D1117&color=0891B2&line=0891B2&point=FFFFFF&area=true&area_color=0891B2&hide_border=true&radius=15" width="100%" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=zidanmubarak&bg_color=FFF4DA&color=3D3D3D&line=7C9885&point=D4956A&area=true&area_color=7C9885&hide_border=true&radius=8" width="100%" />
       </a>
     </td>
   </tr>
 </table>
 
-### 🐍 Contribution Activity
+<p align="center"><img src="assets/divider.svg" width="55%"/></p>
+
+## Contribution Activity
 
 <div align="center">
   <picture>
@@ -94,8 +102,8 @@
   </picture>
 </div>
 
-<p align="center">
-  <br>
-  ⭐ <b>Feel free to star my repositories if you find them helpful!</b> ⭐<br><br>
-  <sub>© 2026 Zidan Mubarak • Thanks for visiting! 🚀</sub>
-</p>
+<br/>
+
+<div align="center">
+  <img src="assets/footer.svg" width="55%"/>
+</div>

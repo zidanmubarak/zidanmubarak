@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 30" fill="none">
+  <!-- Left hand-drawn line -->
+  <path d="M 100 15 Q 145 13.5, 190 15.2 Q 235 16, 270 14.8"
+        stroke="#D4C5A9" stroke-width="0.8" stroke-linecap="round"/>
+  <!-- Dots -->
+  <circle cx="285" cy="15" r="1.8" fill="#C4B398"/>
+  <circle cx="300" cy="15" r="2.5" fill="#D4956A" opacity="0.5"/>
+  <circle cx="315" cy="15" r="1.8" fill="#C4B398"/>
+  <!-- Right hand-drawn line -->
+  <path d="M 330 15.2 Q 375 13.8, 420 15 Q 465 16.2, 500 14.5"
+        stroke="#D4C5A9" stroke-width="0.8" stroke-linecap="round"/>
+</svg>
